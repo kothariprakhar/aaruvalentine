@@ -45,11 +45,6 @@ const App: React.FC = () => {
                   <CoupleHoldingHands className="w-48 h-48 md:w-72 md:h-72" />
               </div>
 
-              <div className="mt-12 animate-fade-in delay-300">
-                <a href="#gallery" className="inline-block border-b-2 border-rose-800 text-rose-800 hover:text-rose-600 px-4 py-2 transition-all duration-300 font-handwriting text-3xl">
-                  Scroll for our story
-                </a>
-              </div>
             </div>
           </header>
 
